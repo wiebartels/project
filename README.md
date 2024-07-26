@@ -11,9 +11,9 @@ The following folders are in this project:
 
 -docs (containing two subfolders)
 
-  -weekly meetings (contains meeting minute documents)
+    - weekly meetings (contains meeting minute documents)
   
-  -Documents (contains reports as word documents)
+    - Documents (contains reports as word documents)
   
 -images (contains images generated in analysis)
 
